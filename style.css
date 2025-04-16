@@ -50,7 +50,8 @@ ul {
   padding-left: 1.5rem;
 }
 
-.contact-button {
+.contact-button,
+.instagram-button {
   display: inline-block;
   background-color: #0077cc;
   color: white;
@@ -59,9 +60,11 @@ ul {
   text-decoration: none;
   font-weight: bold;
   transition: background-color 0.3s ease;
+  margin-right: 10px;
 }
 
-.contact-button:hover {
+.contact-button:hover,
+.instagram-button:hover {
   background-color: #005fa3;
 }
 
