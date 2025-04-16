@@ -51,7 +51,8 @@ ul {
 }
 
 .contact-button,
-.instagram-button {
+.instagram-button,
+.tiktok-button {
   display: inline-block;
   background-color: #0077cc;
   color: white;
@@ -66,6 +67,14 @@ ul {
 .contact-button:hover,
 .instagram-button:hover {
   background-color: #005fa3;
+}
+
+.tiktok-button {
+  background-color: #000000;
+}
+
+.tiktok-button:hover {
+  background-color: #1c1c1c;
 }
 
 footer {
